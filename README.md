@@ -99,9 +99,8 @@ I'm a **Data Scientist, ML Engineer, and Gen AI Engineer** based in Dhaka, Bangl
 
 <!-- ====================== SNAKE ====================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mazenasag/Mazenasag/output/github-snake-dark.svg" alt="Contribution snake animation"/>
+  <img src="https://github-readme-snake.vercel.app/api/snake?username=Mazenasag&theme=dark" alt="Contribution snake animation"/>
 </p>
-
 ---
 
 ## `> echo "let's build"`
